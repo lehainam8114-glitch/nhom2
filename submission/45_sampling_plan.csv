@@ -1,9 +1,9 @@
-camera_id,slice_type,frames,risk,rationale
-front,normal,,TODO,TODO
-front,hard,,TODO,TODO
-rear,normal,,TODO,TODO
-rear,hard,,TODO,TODO
-left,normal,,TODO,TODO
-left,hard,,TODO,TODO
-right,normal,,TODO,TODO
-right,hard,,TODO,TODO
+﻿camera_id,slice_type,frames,risk,rationale
+front,normal,35,medium,"Camera truoc gap nhieu xe doi dau, nguoi di bo vuot duong; ca normal can du phan phoi class"
+front,hard,25,high,"Canh buoi toi, nguoi nho trong xe, xe cat lan bat ngo; kho nhan dang vung center"
+rear,normal,30,medium,Xe phia sau co xu huong bi ego_body che phan; can kiem truncated
+rear,hard,20,high,"Xe may bam sat phia sau, xe tai lon loa khung; dung nham class Bike/ThreeWheeler"
+left,normal,25,medium,"Hai long duong phia trai, nguoi di bo len xe; ca rider hay nham R03"
+left,hard,15,high,"Khuc cua re, vat bi seam cat, anh toi goc trai; kho ve box chuan"
+right,normal,25,medium,Tuong tu trai nhung phia phai co nhieu xe dau ven duong; co the co ignore_region crowd
+right,hard,25,high,"Nguoi tu cho buoc ra, xe om gap xe buyt; nhieu WRONG_CLASS ThreeWheeler/Bus"

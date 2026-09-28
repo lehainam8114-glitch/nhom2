@@ -1,0 +1,9 @@
+round: rework
+slice: B1-center
+sha256: 3874fd7bb15034a3d3f4f5d36f78f94395cddeb73fe56abb1128bad53be8cbb8
+code: 3874-FD7B
+locked_at: 2026-09-28T18:18:18+07:00
+shapes: box=21, polygon=6
+prefill_kept: 0
+prefill_edited: 4
+new: 17

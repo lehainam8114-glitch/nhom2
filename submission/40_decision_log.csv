@@ -1,1 +1,6 @@
-id,date,question,decision,rationale,status
+﻿id,date,question,decision,rationale,status
+DL001,2026-09-28,L2 frame 006840 gon nhan Bus hay ThreeWheeler?,ThreeWheeler,Box 60x70px vung center khop xe ba banh R04; R4 reference cung la ThreeWheeler; da rework P5,closed
+DL002,2026-09-28,L2+M12 LM_noR co phai reference thieu khong?,E0_reference_defect tam thoi; can Lab Coach xac nhan,Ca L va M deu thay nhung R khong co; kha nang reference thieu hoac vat duoi nguong H,escalated
+DL003,2026-09-28,ego_body frame 006840 co can ve khong?,Khong ve,Frame nay khong thay than xe ego (R07); polygon thua cung la loi; da xoa trong rework,closed
+DL004,2026-09-28,"ATTRIBUTE truncated khac reference (L5+R5, L1+R2 frame 056040) co can rework?",Khong rework; giu ket qua keep_with_reason,Attribute khong doi quyet dinh class chinh; P2 severity; ghi nhan de cai thien round sau,closed
+DL005,2026-09-28,R7 frame 006840 (Pedestrian) co can ve them khong?,Da co trong rework plan nhung khong ap dung duoc vi vat qua nho,Selfqc canh bao nhung sau kiem tren anh vat < H=40 hoac bi che > 50% ignore; giu nguyen; can Lab Coach xac nhan,escalated
