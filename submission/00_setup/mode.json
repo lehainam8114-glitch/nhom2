@@ -1,0 +1,15 @@
+{
+  "members": [
+    "cuong",
+    "nam",
+    "trong"
+  ],
+  "assignments": {
+    "cuong": "B1-center",
+    "nam": "B2-center",
+    "trong": "B3-edge"
+  },
+  "self": "cuong",
+  "slice": "B1-center",
+  "degrade": []
+}
